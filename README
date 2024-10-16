@@ -1,3 +1,10 @@
 README
 Code excercises for OS course
 running on xv6-riscv architecture
+
+
+//Boiler Plate code for the architecture using headers
+#include "kernel/types.h"
+#include "user/user.h"
+int main(int argc, char *argv[]) {
+// Insert code here.
